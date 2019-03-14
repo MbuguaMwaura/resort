@@ -29,12 +29,12 @@ body{
 }
 a{
   color: white;
+  text-decoration: none;
+  padding: 5px;
+  margin: 10px;
 
 }
-a::selection{
-  color:#EC7063;
 
-}
 a:hover{
   color:#EC7063;
 
@@ -45,5 +45,4 @@ ul{
   color: white;
   list-style:none;
   background-color: #AED6F1;
-
 }
